@@ -6,7 +6,10 @@ public class Main{
 				System.out.println("Hola Mundo GIT 2 :)");
 				
 				var variable1 = 3;
-				system.out.println(variable1);
+				System.out.println(variable1);
+
+				String cadena = "Hola"; 
+				System.out.println(cadena);
 		}
 		
 		public void saludar(){
