@@ -6,4 +6,8 @@ public class Main{
 				System.out.println("Hola Mundo GIT 2 :)");
 		}
 		
+		public void saludar(){
+				System.out.println("Hola Caracola");
+		}
+		
 }
