@@ -3,6 +3,7 @@ public class Main{
 		
 		public static void main(String[] args){
 				System.out.println("Hola Mundo GIT");
+				System.out.println("Hola Mundo GIT 2 :)");
 		}
 		
 }
