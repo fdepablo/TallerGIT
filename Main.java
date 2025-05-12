@@ -8,6 +8,7 @@ public class Main{
 		
 		public void saludar(){
 				System.out.println("Hola Caracola");
+				System.out.println("Hola Caracola otra vez");
 		}
 		
 }
