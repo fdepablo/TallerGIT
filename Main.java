@@ -7,6 +7,10 @@ public class Main{
 				
 				var variable1 = 3;
 				system.out.println(variable1);
+
+				int nueva = 0;
+				system.out.println(nueva);
+
 		}
 		
 		public void saludar(){
