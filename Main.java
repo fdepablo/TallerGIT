@@ -13,6 +13,7 @@ public class Main{
 		
 		public void saludar2(){
 				System.out.println("Hola Caracola funcion 2");
+				System.out.println("Hola Caracola otra vez 2");
 		}
 		
 }
